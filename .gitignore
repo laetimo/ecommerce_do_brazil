@@ -1,3 +1,7 @@
+#ajout manuel dans le gitignore
+data/
+brazil.db
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
